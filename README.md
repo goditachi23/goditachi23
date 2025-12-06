@@ -32,7 +32,7 @@ This repository is the hub that describes my GitHub profile and links to my work
 
 ---
 
-## ⚡ Flashy Tech Highlights (animated)
+## ⚡ Flashy Tech Highlights
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=9B5CFF&center=true&vCenter=true&width=720&lines=JavaScript+Projects;Android+Development;DevOps+Pipelines+Coming+Soon;Automation+%7C+CI%2FCD+%7C+Cloud" alt="Skills Typing" />
 </p>
