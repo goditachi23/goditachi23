@@ -1,11 +1,11 @@
 <!-- PROFILE README for Vedansh Gupta -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00e5ff,100:9b5cff&height=115&text=Vedansh%20Gupta&fontSize=42&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00ff99,100:007755&text=Vedansh%20Gupta&fontSize=48&fontColor=00ffcc&fontAlignY=34" />
 </p>
 
 <p align="center">
-  <em>JavaScript • Android • HTML • CSS • Aspiring DevOps Engineer</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=22&duration=2500&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=JavaScript+Developer;Android+Dev;Learning+DevOps;Building+CI%2FCD+Pipelines;Welcome+to+my+Digital+Space" />
 </p>
 
 
